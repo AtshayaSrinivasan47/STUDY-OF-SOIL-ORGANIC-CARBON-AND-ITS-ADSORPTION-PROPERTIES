@@ -1,1 +1,5 @@
 # STUDY-OF-SOIL-ORGANIC-CARBON-AND-ITS-ADSORPTION-PROPERTIES
+
+Three soil  samples  were  taken  from two different places within an agricultural  land  and one  near  the   Sewage  Treatment  Plant (STP)  at  Bannari  Amman  Institute  of  Technology, Sathyamangalam. Through  this  study , adsorption  properties  of  soil  which influences  the  carbon  content/quality  of  soil  has  been  studied. The  soil  physical  and  chemical  properties   suggested  to  comprise  a  minimum  data  set  for  ongoing  monitoring  of  soil  quality. This  study  aimed  to  compare  soil  physical  and chemical  properties, SOC  and  TOC. Column  leaching  experiment  was  done  to understand  the  presence  of  chloride  concentration  in  soil. Using  the  graph, the proposed  experiment  determined  the  concentration  of  chloride  in  soil  sample.     In  the  conclusion, the  characteristics  of  soil  samples  are  determined  using  results and  graphs.  
+
+Key words: SOC - Soil Organic Carbon, TOC - Total Organic Carbon, Adsorption, Column leaching experiment
