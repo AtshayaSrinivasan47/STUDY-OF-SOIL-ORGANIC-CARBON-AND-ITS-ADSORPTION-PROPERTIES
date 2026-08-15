@@ -10,4 +10,3 @@ TOC (Total Organic Carbon) was done to estimate the amount of carbon present in 
 Column experiment was done to test the absorption capacity of soil which was done by carbon present in it. The more the chloride content obtained after the column experiment by estimating the chloride, the less the adsorption capacity of soil and hence ,we concluded that carbon present in soil will also be too low and vice versa.
 TOC is high for Clayey soil indicating it has more SOM and good adsorbent capacity. It is quite low for Sandy Loam soil indicating it has low SOM comparing Clayey soil and its adsorbent capacity will also be low comparing the clayey soil sample.
 Hence, we conclude that if Soil Organic Matter (SOM) is high then the Total Organic Carbon (TOC) will also be high indicating it has a high adsorption capacity. 
-
